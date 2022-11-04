@@ -93,11 +93,7 @@ line-height: 28px;
 color: #D5D4D8;
 }
 
-#line {
-    width: 400px;
-    
-   
-}
+
 
 #passwordButtons {
 display: flex;
@@ -129,5 +125,14 @@ padding-top: 350px;
     border-radius: 10px;
     color: #55F991;
     
+}
+
+#hint {
+    text-align: center;
+    color: white;
+    font-size: small;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Mono', monospace;
+padding-top: 40px;
 }
     
