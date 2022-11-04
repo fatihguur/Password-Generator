@@ -33,12 +33,17 @@ function Generate() {
             secondPasswordEl.textContent = generatedPasswordTwo;
         }
     }
+}
 
 function CopyButtonOne() { 
     let copiedPassword = firstPasswordEl.textContent;
     navigator.clipboard.writeText(copiedPassword);
 }
-}  
 
+function CopyButtonTwo() { 
+    let copiedPassword = secondPasswordEl.textContent;
+    navigator.clipboard.writeText(copiedPassword);
+}
+ 
 
 

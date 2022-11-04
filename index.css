@@ -94,9 +94,9 @@ color: #D5D4D8;
 }
 
 #line {
-    width: 10px;
-    top: 500px;
-    left: 500px;
+    width: 400px;
+    
+   
 }
 
 #passwordButtons {
@@ -106,8 +106,6 @@ align-items: center;
 
 
 padding-top: 350px;
-background-color: background: #273549;;
-
 
 }
 
